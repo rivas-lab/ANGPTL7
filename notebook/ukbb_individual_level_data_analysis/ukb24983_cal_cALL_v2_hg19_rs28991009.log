@@ -1,0 +1,29 @@
+PLINK v2.00a2LM AVX2 Intel (2 Apr 2019)
+Options in effect:
+  --bpfile /oak/stanford/groups/mrivas/ukbb24983/cal/pgen/ukb24983_cal_cALL_v2_hg19
+  --export A
+  --extract /dev/stdin
+  --keep /oak/stanford/groups/mrivas/ukbb24983/sqc/population_stratification/ukb24983_white_british.phe
+  --out ukb24983_cal_cALL_v2_hg19_rs28991009
+
+Hostname: sh-102-07.int
+Working directory: /oak/stanford/groups/mrivas/users/ytanigaw/sandbox/20190518_glaucoma
+Start time: Mon May 20 08:57:51 2019
+
+Random number seed: 1558367871
+257669 MiB RAM detected; reserving 128834 MiB for main workspace.
+Using up to 20 threads (change this with --threads).
+488377 samples (264861 females, 223509 males, 7 ambiguous; 488377 founders)
+loaded from
+/oak/stanford/groups/mrivas/ukbb24983/cal/pgen/ukb24983_cal_cALL_v2_hg19.fam.
+805426 variants loaded from
+/oak/stanford/groups/mrivas/ukbb24983/cal/pgen/ukb24983_cal_cALL_v2_hg19.bim.
+Note: No phenotype data present.
+--extract: 1 variant remaining.
+--keep: 337151 samples remaining.
+337151 samples (181034 females, 156117 males; 337151 founders) remaining after
+main filters.
+1 variant remaining after main filters.
+--export A: ukb24983_cal_cALL_v2_hg19_rs28991009.raw written.
+
+End time: Mon May 20 08:57:53 2019
