@@ -1,0 +1,65 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.0
+* (C) 2014-2015 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--ref-ld-chr /oak/stanford/groups/mrivas/projects/h2-estimation/private_output/ukb_ld_scores/TWINSUK/ \
+--out /tmp/tmp.SJKGOqIxVW/ukb24983_v2_hg19.genotyped.INI5255_INI5262 \
+--rg /oak/stanford/groups/mrivas/dev-ukbb-tools/ldsc/munged/ANGPTL7/ukb24983_v2_hg19.INI5255.genotyped.sumstats.gz,/oak/stanford/groups/mrivas/dev-ukbb-tools/ldsc/munged/ANGPTL7/ukb24983_v2_hg19.INI5262.genotyped.sumstats.gz \
+--w-ld-chr /oak/stanford/groups/mrivas/projects/h2-estimation/private_output/ukb_ld_scores/TWINSUK/ 
+
+Beginning analysis at Sun Sep  8 05:25:01 2019
+Reading summary statistics from /oak/stanford/groups/mrivas/dev-ukbb-tools/ldsc/munged/ANGPTL7/ukb24983_v2_hg19.INI5255.genotyped.sumstats.gz ...
+Read summary statistics for 496164 SNPs.
+Reading reference panel LD Score from /oak/stanford/groups/mrivas/projects/h2-estimation/private_output/ukb_ld_scores/TWINSUK/[1-22] ...
+Read reference panel LD Scores for 13411738 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from /oak/stanford/groups/mrivas/projects/h2-estimation/private_output/ukb_ld_scores/TWINSUK/[1-22] ...
+Read regression weight LD Scores for 13411738 SNPs.
+After merging with reference panel LD, 496164 SNPs remain.
+After merging with regression SNP LD, 496164 SNPs remain.
+Computing rg for phenotype 2/2
+Reading summary statistics from /oak/stanford/groups/mrivas/dev-ukbb-tools/ldsc/munged/ANGPTL7/ukb24983_v2_hg19.INI5262.genotyped.sumstats.gz ...
+Read summary statistics for 496164 SNPs.
+After merging with summary statistics, 496164 SNPs remain.
+496164 SNPs with valid alleles.
+
+Heritability of phenotype 1
+---------------------------
+Total Observed scale h2: 0.2015 (0.0138)
+Lambda GC: 1.1683
+Mean Chi^2: 1.2423
+Intercept: 1.0287 (0.0082)
+Ratio: 0.1183 (0.0337)
+
+Heritability of phenotype 2/2
+-----------------------------
+Total Observed scale h2: 0.1576 (0.0105)
+Lambda GC: 1.1364
+Mean Chi^2: 1.1854
+Intercept: 1.0083 (0.0072)
+Ratio: 0.0448 (0.0391)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.1479 (0.0097)
+Mean z1*z2: 0.708
+Intercept: 0.5488 (0.0062)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.8297 (0.022)
+Z-score: 37.7411
+P: 1.0532e-311
+
+
+Summary of Genetic Correlation Results
+p1                                                                                                             p2      rg     se        z            p  h2_obs  h2_obs_se  h2_int  h2_int_se  gcov_int  gcov_int_se
+/oak/stanford/groups/mrivas/dev-ukbb-tools/ldsc/munged/ANGPTL7/ukb24983_v2_hg19.INI5255.genotyped.sumstats.gz  /oak/stanford/groups/mrivas/dev-ukbb-tools/ldsc/munged/ANGPTL7/ukb24983_v2_hg19.INI5262.genotyped.sumstats.gz  0.8297  0.022  37.7411  1.0532e-311  0.1576     0.0105  1.0083     0.0072    0.5488       0.0062
+
+Analysis finished at Sun Sep  8 05:27:32 2019
+Total time elapsed: 2.0m:31.45s
