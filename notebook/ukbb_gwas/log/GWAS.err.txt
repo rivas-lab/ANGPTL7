@@ -1,0 +1,48 @@
+[/var/spool/slurmd/job55060946/slurm_script 20191120-134524] [start] hostname = sh-102-07.int SLURM_JOBID = 55060946
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+[/var/spool/slurmd/job55060946/slurm_script 20191120-142643] [end] hostname = sh-102-07.int SLURM_JOBID = 55060946
+[/var/spool/slurmd/job55060947/slurm_script 20191120-134522] [start] hostname = sh-109-54.int SLURM_JOBID = 55060947
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+[/var/spool/slurmd/job55060947/slurm_script 20191120-143733] [end] hostname = sh-109-54.int SLURM_JOBID = 55060947
+[/var/spool/slurmd/job55060948/slurm_script 20191120-134522] [start] hostname = sh-109-54.int SLURM_JOBID = 55060948
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+[/var/spool/slurmd/job55060948/slurm_script 20191120-143507] [end] hostname = sh-109-54.int SLURM_JOBID = 55060948
+[/var/spool/slurmd/job55060949/slurm_script 20191120-134522] [start] hostname = sh-109-54.int SLURM_JOBID = 55060949
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+[/var/spool/slurmd/job55060949/slurm_script 20191120-143525] [end] hostname = sh-109-54.int SLURM_JOBID = 55060949
+[/var/spool/slurmd/job55060951/slurm_script 20191120-134522] [start] hostname = sh-109-55.int SLURM_JOBID = 55060951
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+[/var/spool/slurmd/job55060951/slurm_script 20191120-143430] [end] hostname = sh-109-55.int SLURM_JOBID = 55060951
+[/var/spool/slurmd/job55060952/slurm_script 20191120-134522] [start] hostname = sh-109-55.int SLURM_JOBID = 55060952
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+Warning: Covariate 'Array' is constant; standardizing to all-missing.
+Warning: Excluding constant covariate 'Array' from --glm.
+[/var/spool/slurmd/job55060952/slurm_script 20191120-143313] [end] hostname = sh-109-55.int SLURM_JOBID = 55060952
