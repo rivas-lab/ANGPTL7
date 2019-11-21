@@ -1,0 +1,4 @@
+p1	p2	rg	se	z	p	h2_obs	h2_obs_se	h2_int	h2_int_se	gcov_int	gcov_int_se	GBE_NAME	GBE_short_name
+INI5255	INI5254	0.792	0.0159	49.9037	0	0.149	0.0106	1.0162	0.0075	0.8266	0.007	Intra-ocular_pressure,_corneal-compensated_(right)	IOP, corneal-compensated (R)
+INI5255	INI5262	0.8297	0.022	37.7411	1.1130635292536e-308	0.1576	0.0105	1.0083	0.0072	0.5488	0.0062	Intra-ocular_pressure,_corneal-compensated_(left)	IOP, corneal-compensated (L)
+INI5255	INI5263	1.0175	0.0096	105.7755	0	0.2253	0.0133	1.009	0.0082	0.7368	0.0074	Intra-ocular_pressure,_Goldmann-correlated_(left)	IOP, Goldmann-correlated (L)
