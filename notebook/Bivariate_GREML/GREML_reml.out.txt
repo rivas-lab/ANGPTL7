@@ -1,0 +1,22 @@
+*******************************************************************
+* Genome-wide Complex Trait Analysis (GCTA)
+* version 1.92.4 beta Linux
+* (C) 2010-2019, The University of Queensland
+* Please report bugs to Jian Yang <jian.yang@uq.edu.au>
+*******************************************************************
+Analysis started at 22:27:53 UTC on Wed Dec 04 2019.
+Hostname: sh-109-55.int
+
+Accepted options:
+--grm /oak/stanford/groups/mrivas/ukbb24983/cal/grm/ukb24983_cal_cALL_v2_hg19.white_british
+--pheno /oak/stanford/groups/mrivas/ukbb24983/phenotypedata/extras/iop/phe/INI2005254.phe
+--reml
+--out test
+--thread-num 4
+
+Note: the program will be running on 4 threads.
+
+Reading IDs of the GRM from [/oak/stanford/groups/mrivas/ukbb24983/cal/grm/ukb24983_cal_cALL_v2_hg19.white_british.grm.id].
+337474 IDs read from [/oak/stanford/groups/mrivas/ukbb24983/cal/grm/ukb24983_cal_cALL_v2_hg19.white_british.grm.id].
+Error: Duplicate individual ID found: "4469200	4469200".
+An error occurs, please check the options or data
