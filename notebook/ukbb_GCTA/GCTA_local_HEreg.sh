@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH --job-name=HEreg-b
-#SBATCH --output=logs/HEreg-b.%A_%a.out
-#SBATCH  --error=logs/HEreg-b.%A_%a.err
+#SBATCH --job-name=HEreg
+#SBATCH --output=logs/HEreg.local.%A_%a.out
+#SBATCH  --error=logs/HEreg.local.%A_%a.err
 #SBATCH --nodes=1
-#SBATCH --cores=6
-#SBATCH --mem=18000
-#SBATCH --time=4:00:00
+#SBATCH --cores=4
+#SBATCH --mem=8G
+#SBATCH --time=2:00:00
 #SBATCH -p mrivas,normal
 
 set -beEuo pipefail
@@ -23,7 +23,7 @@ ml load gcta
 # source "$(dirname ${SRCNAME})/GCTA_misc.sh"
 source "/oak/stanford/groups/mrivas/users/ytanigaw/repos/rivas-lab/ANGPTL7/notebook/ukbb_GCTA/GCTA_misc.sh"
 pop="white_british"
-phe_num=7 # the total number of phenotypes
+var_list="rs200058074_rs28991002_rs28991009_rs143435072"
 
 cores=$( cat $0 | egrep '^#SBATCH --cores='  | awk -v FS='=' '{print $NF}' )
 mem=$(   cat $0 | egrep '^#SBATCH --mem='    | awk -v FS='=' '{print $NF}' )
@@ -44,11 +44,10 @@ echo "[$0 $(date +%Y%m%d-%H%M%S)] [array-start] hostname=$(hostname); SLURM_JOBI
 # out=test.INI2005254
 
 pheno_file="${GCTA_phe}"
-pheno_idx1="$(show_idx_combination $phe_num | awk -v nr=${_SLURM_ARRAY_TASK_ID} '(NR == nr){print $1}')"
-pheno_idx2="$(show_idx_combination $phe_num | awk -v nr=${_SLURM_ARRAY_TASK_ID} '(NR == nr){print $2}')"
-out="${DATA_D}/${pop}/$(get_phe_name ${pheno_idx1})_$(get_phe_name ${pheno_idx2})"
+pheno_idx="${_SLURM_ARRAY_TASK_ID}"
+out="${DATA_D}/${pop}/$(get_phe_name ${pheno_idx}).${var_list}"
 
-gcta_HEreg_bivar ${GRM_WB} $pheno_file $pheno_idx1 $pheno_idx2 $out $cores
+gcta_HEreg ${GRM_WB_ANGPTL7} $pheno_file $pheno_idx $out $cores
 
 ############################################################
 # job finish footer (for use with array-job module)

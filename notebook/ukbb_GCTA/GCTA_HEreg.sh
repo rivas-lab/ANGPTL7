@@ -46,7 +46,7 @@ pheno_file="${GCTA_phe}"
 pheno_idx="${_SLURM_ARRAY_TASK_ID}"
 out="${DATA_D}/${pop}/$(get_phe_name ${pheno_idx})"
 
-gcta_HEreg $pheno_file $pheno_idx $out $cores
+gcta_HEreg ${GRM_WB} $pheno_file $pheno_idx $out $cores
 
 ############################################################
 # job finish footer (for use with array-job module)
