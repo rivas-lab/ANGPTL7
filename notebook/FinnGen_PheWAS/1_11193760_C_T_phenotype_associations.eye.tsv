@@ -1,0 +1,152 @@
+beta	category	phenocode	phenostring	pval	phewas_code	phewas_string	category_name	odds_ratio
+-0.3457	Diseases of the eye and adnexa	H7_GLAUCOMA	Glaucoma	1.948e-12	H7_GLAUCOMA	Glaucoma	Diseases of the eye and adnexa	0.70772477269388
+-0.3816	Diseases of the eye and adnexa	H7_GLAUCPRIMOPEN	Primary open-angle glaucoma	1.349e-08	H7_GLAUCPRIMOPEN	Primary open-angle glaucoma	Diseases of the eye and adnexa	0.682768105833557
+-0.3221	Diseases of the eye and adnexa	H7_GLAUCSUSP	Glaucoma suspect	2.934e-07	H7_GLAUCSUSP	Glaucoma suspect	Diseases of the eye and adnexa	0.72462572413424
+-0.375	Diseases of the eye and adnexa	H7_GLAUCOMA_POAG	Primary open-angle glaucoma, strict	7.245e-07	H7_GLAUCOMA_POAG	Primary open-angle glaucoma, strict	Diseases of the eye and adnexa	0.687289278790972
+-0.4354	Diseases of the eye and adnexa	H7_GLAUCOMA_XFG	Glaucoma, exfoliation	6.676e-05	H7_GLAUCOMA_XFG	Glaucoma, exfoliation	Diseases of the eye and adnexa	0.647005812985473
+-0.5194	Diseases of the eye and adnexa	H7_GLAUCCLOSEPRIM	Primary angle-closure glaucoma	0.001612	H7_GLAUCCLOSEPRIM	Primary angle-closure glaucoma	Diseases of the eye and adnexa	0.594877367334081
+-0.3233	Diseases of the eye and adnexa	H7_GLAUCOMAMEDICATION	Use of antiglaucoma preparations and miotics	0.004951	H7_GLAUCOMAMEDICATION	Use of antiglaucoma preparations and miotics	Diseases of the eye and adnexa	0.723756694787171
+-0.4354	Diseases of the eye and adnexa	H7_GLAUCNAS	Other and unspecified glaucoma	0.005758	H7_GLAUCNAS	Other and unspecified glaucoma	Diseases of the eye and adnexa	0.647005812985473
+0.6936	Diseases of the eye and adnexa	H7_RETINOCHISISCYST	Retinoschisis and retinal cysts	0.006804	H7_RETINOCHISISCYST	Retinoschisis and retinal cysts	Diseases of the eye and adnexa	2.00090584395651
+-0.7872	Diseases of the eye and adnexa	H7_CHOROIDOTH	Other disorders of choroid	0.008599	H7_CHOROIDOTH	Other disorders of choroid	Diseases of the eye and adnexa	0.455117341442374
+0.6805	Diseases of the eye and adnexa	H7_RETINAHAEMORR	Retinal haemorrhage	0.01142	H7_RETINAHAEMORR	Retinal haemorrhage	Diseases of the eye and adnexa	1.97486491787241
+0.3897	Diseases of the eye and adnexa	H7_RETINOPATHYDIAB_BKG_SEVERE	Severe diabetic background retinopathy	0.04273	H7_RETINOPATHYDIAB_BKG_SEVERE	Severe diabetic background retinopathy	Diseases of the eye and adnexa	1.47653776610197
+-0.1365	Diseases of the eye and adnexa	H7_AMD	Age-related macular degeneration (whether dry or wet)	0.06379	H7_AMD	Age-related macular degeneration (whether dry or wet)	Diseases of the eye and adnexa	0.872406320259622
+0.1301	Diseases of the eye and adnexa	H7_RETINOPATHYDIAB	Diabetic retinopathy	0.06785	H7_RETINOPATHYDIAB	Diabetic retinopathy	Diseases of the eye and adnexa	1.13894227185729
+-0.2538	Diseases of the eye and adnexa	H7_GLAUCOMA_NTG	Normotensive glaucoma	0.0697	H7_GLAUCOMA_NTG	Normotensive glaucoma	Diseases of the eye and adnexa	0.775846955921756
+-0.1655	Diseases of the eye and adnexa	WET_AMD	Wet age-related macular degeneration	0.089	WET_AMD	Wet age-related macular degeneration	Diseases of the eye and adnexa	0.847469863204923
+-0.0935	Diseases of the eye and adnexa	H7_MACULADEGEN	Degeneration of macula and posterior pole	0.09465	H7_MACULADEGEN	Degeneration of macula and posterior pole	Diseases of the eye and adnexa	0.910738017426199
+-0.2519	Diseases of the eye and adnexa	H7_HYPERMETRO	Hypermetropia	0.0952	H7_HYPERMETRO	Hypermetropia	Diseases of the eye and adnexa	0.777322466429106
+-0.0815	Diseases of the eye and adnexa	H7_CATARACTOTHER	Other cataract	0.1025	H7_CATARACTOTHER	Other cataract	Diseases of the eye and adnexa	0.921732709853887
+0.223	Diseases of the eye and adnexa	H7_VISDISTNAS	Other and unspecified visual disturbances	0.1055	H7_VISDISTNAS	Other and unspecified visual disturbances	Diseases of the eye and adnexa	1.24982057373598
+0.4493	Diseases of the eye and adnexa	H7_ANOMAPUPFUNC	Anomalies of pupillary function	0.1098	H7_ANOMAPUPFUNC	Anomalies of pupillary function	Diseases of the eye and adnexa	1.56721475110717
+0.4346	Diseases of the eye and adnexa	H7_PAPILLOEDEMA	Papilloedema, unspecified	0.1198	H7_PAPILLOEDEMA	Papilloedema, unspecified	Diseases of the eye and adnexa	1.54434519730832
+0.2745	Diseases of the eye and adnexa	MACULAR_HOLE	Macular hole	0.1281	MACULAR_HOLE	Macular hole	Diseases of the eye and adnexa	1.3158725740691
+0.2282	Diseases of the eye and adnexa	H7_OPTNEUROTH	Other disorders of optic [2nd] nerve and visual pathways	0.1291	H7_OPTNEUROTH	Other disorders of optic [2nd] nerve and visual pathways	Diseases of the eye and adnexa	1.25633656762081
+-0.4699	Diseases of the eye and adnexa	MACULAR_CYST	Macular cyst	0.1305	MACULAR_CYST	Macular cyst	Diseases of the eye and adnexa	0.625064771634645
+-0.1919	Diseases of the eye and adnexa	H7_ENTROPION	Entropion and trichiasis of eyelid	0.1326	H7_ENTROPION	Entropion and trichiasis of eyelid	Diseases of the eye and adnexa	0.825389403305204
+0.1533	Diseases of the eye and adnexa	H7_MYOPIA	Myopia	0.1371	H7_MYOPIA	Myopia	Diseases of the eye and adnexa	1.16567462888129
+-0.0757	Diseases of the eye and adnexa	H7_EYELIDDIS	Other disorders of eyelid	0.143	H7_EYELIDDIS	Other disorders of eyelid	Diseases of the eye and adnexa	0.92709429313225
+0.1682	Diseases of the eye and adnexa	H7_OPTNERVE	Disorders of optic nerve and visual pathways	0.1463	H7_OPTNERVE	Disorders of optic nerve and visual pathways	Diseases of the eye and adnexa	1.18317322163025
+-0.3102	Diseases of the eye and adnexa	H7_PTERYGIUM	Pterygium	0.153	H7_PTERYGIUM	Pterygium	Diseases of the eye and adnexa	0.733300281501006
+-0.1376	Diseases of the eye and adnexa	H7_DIPLOPIA	Diplopia	0.1631	H7_DIPLOPIA	Diplopia	Diseases of the eye and adnexa	0.871447200919685
+-0.2918	Diseases of the eye and adnexa	H7_PARASTRA6	Sixth [abducent] nerve palsy	0.1656	H7_PARASTRA6	Sixth [abducent] nerve palsy	Diseases of the eye and adnexa	0.746917904616918
+-0.3251	Diseases of the eye and adnexa	H7_BCKRNDRETINOPAT	Background retinopathy and retinal vascular changes	0.1679	H7_BCKRNDRETINOPAT	Background retinopathy and retinal vascular changes	Diseases of the eye and adnexa	0.722455104519224
+0.2155	Diseases of the eye and adnexa	H7_ASTIGMATISM	Astigmatism	0.1808	H7_ASTIGMATISM	Astigmatism	Diseases of the eye and adnexa	1.24048198292312
+-0.2316	Diseases of the eye and adnexa	H7_RETINASEPAR	Separation of retinal layers (serosa)	0.2008	H7_RETINASEPAR	Separation of retinal layers (serosa)	Diseases of the eye and adnexa	0.793263365200155
+0.2932	Diseases of the eye and adnexa	H7_KERATOCONUS	Hereditary corneal dystrophies	0.2022	H7_KERATOCONUS	Hereditary corneal dystrophies	Diseases of the eye and adnexa	1.34071090580041
+0.1187	Diseases of the eye and adnexa	H7_RETINOPATHYDIAB_BKG	Diabetic background retinopathy	0.2036	H7_RETINOPATHYDIAB_BKG	Diabetic background retinopathy	Diseases of the eye and adnexa	1.12603205799444
+0.1434	Diseases of the eye and adnexa	H7_RETINOPATHYDIAB_PROLIF	Proliferative diabetic retinopathy	0.2056	H7_RETINOPATHYDIAB_PROLIF	Proliferative diabetic retinopathy	Diseases of the eye and adnexa	1.15419138589737
+-0.2317	Diseases of the eye and adnexa	H7_VITROPACIT	Other vitreous opacities	0.2195	H7_VITROPACIT	Other vitreous opacities	Diseases of the eye and adnexa	0.79318404282982
+0.24	Diseases of the eye and adnexa	H7_PERIPHRETINADEGEN	Peripheral retinal degeneration	0.2215	H7_PERIPHRETINADEGEN	Peripheral retinal degeneration	Diseases of the eye and adnexa	1.2712491503214
+0.1469	Diseases of the eye and adnexa	H7_VISFIELDDEF	Visual field defects	0.2233	H7_VISFIELDDEF	Visual field defects	Diseases of the eye and adnexa	1.15823813342513
+0.201	Diseases of the eye and adnexa	H7_HORDEOLUM	Hordeolum and other deep inflammation of eyelid	0.225	H7_HORDEOLUM	Hordeolum and other deep inflammation of eyelid	Diseases of the eye and adnexa	1.22262477182333
+0.3449	Diseases of the eye and adnexa	H7_VASCCILIARY	Hyphaema and other vascular disorders of iris and ciliary body	0.2294	H7_VASCCILIARY	Hyphaema and other vascular disorders of iris and ciliary body	Diseases of the eye and adnexa	1.41184872773541
+-0.2212	Diseases of the eye and adnexa	H7_KERATITISINOTH	Keratitis and keratoconjunctivitis in other diseases classified elsewhere	0.2333	H7_KERATITISINOTH	Keratitis and keratoconjunctivitis in other diseases classified elsewhere	Diseases of the eye and adnexa	0.801556352987402
+-0.0879	Diseases of the eye and adnexa	H7_VISUDISTURBSUB	Subjective visual disturbances	0.2351	H7_VISUDISTURBSUB	Subjective visual disturbances	Diseases of the eye and adnexa	0.915852457389955
+-0.2057	Diseases of the eye and adnexa	H7_GLAUCSECDISEASE	Glaucoma secondary to other eye disorders	0.2469	H7_GLAUCSECDISEASE	Glaucoma secondary to other eye disorders	Diseases of the eye and adnexa	0.814077262831957
+-0.1569	Diseases of the eye and adnexa	H7_BLINDANDVISIMPAIRMENT	Visual impairment including blindness (binocular or monocular)	0.2531	H7_BLINDANDVISIMPAIRMENT	Visual impairment including blindness (binocular or monocular)	Diseases of the eye and adnexa	0.85478953349723
+-0.2297	Diseases of the eye and adnexa	H7_MODVISIMPBINOC	Moderate visual impairment, binocular	0.256	H7_MODVISIMPBINOC	Moderate visual impairment, binocular	Diseases of the eye and adnexa	0.794771998341673
+-0.2524	Diseases of the eye and adnexa	H7_LACRIMALORBITINOTH	Disorders of lacrimal system and orbit in diseases classified elsewhere	0.2577	H7_LACRIMALORBITINOTH	Disorders of lacrimal system and orbit in diseases classified elsewhere	Diseases of the eye and adnexa	0.776933902345008
+-0.1127	Diseases of the eye and adnexa	MACULA_NAS	Degenerative macular diseases	0.261	MACULA_NAS	Degenerative macular diseases	Diseases of the eye and adnexa	0.893418645509849
+-0.2273	Diseases of the eye and adnexa	H7_RETINANAS	Other specified and unspecified retinal disorders	0.2758	H7_RETINANAS	Other specified and unspecified retinal disorders	Diseases of the eye and adnexa	0.796681741913302
+-0.2229	Diseases of the eye and adnexa	H7_CHORIORETINFLAM	Chorioretinal inflammation	0.2978	H7_CHORIORETINFLAM	Chorioretinal inflammation	Diseases of the eye and adnexa	0.800194864780191
+0.1029	Diseases of the eye and adnexa	H7_MACULOPATHYDIAB	Diabetic maculopathy	0.3036	H7_MACULOPATHYDIAB	Diabetic maculopathy	Diseases of the eye and adnexa	1.10838056547737
+-0.0942	Diseases of the eye and adnexa	H7_RETINALBREAK	Retinal breaks without detachment	0.3046	H7_RETINALBREAK	Retinal breaks without detachment	Diseases of the eye and adnexa	0.91010072389276
+0.2709	Diseases of the eye and adnexa	H7_OPTNERVNAS	Disorders of optic nerve, not elsewhere classified	0.3055	H7_OPTNERVNAS	Disorders of optic nerve, not elsewhere classified	Diseases of the eye and adnexa	1.31114394943371
+0.2641	Diseases of the eye and adnexa	H7_PARASTRA3	Third [oculomotor] nerve palsy	0.3426	H7_PARASTRA3	Third [oculomotor] nerve palsy	Diseases of the eye and adnexa	1.30225841563138
+-0.0442	Diseases of the eye and adnexa	H7_VISUALDISTBLIND	Visual disturbances and blindness	0.3449	H7_VISUALDISTBLIND	Visual disturbances and blindness	Diseases of the eye and adnexa	0.956762585819355
+-0.0887	Diseases of the eye and adnexa	H7_RETINALDETACHBREAK	Retinal detachment with retinal break	0.3473	H7_RETINALDETACHBREAK	Retinal detachment with retinal break	Diseases of the eye and adnexa	0.915120068418692
+-0.1257	Diseases of the eye and adnexa	H7_OCUPAIN	Ocular pain	0.358	H7_OCUPAIN	Ocular pain	Diseases of the eye and adnexa	0.881879370914087
+0.0981	Diseases of the eye and adnexa	H7_PTOSIS	Ptosis of eyelid	0.3842	H7_PTOSIS	Ptosis of eyelid	Diseases of the eye and adnexa	1.10307308690202
+0.0495	Diseases of the eye and adnexa	H7_VITROTH	Other and unspecified disorders of vitreous body	0.3886	H7_VITROTH	Other and unspecified disorders of vitreous body	Diseases of the eye and adnexa	1.05074559221482
+-0.1728	Diseases of the eye and adnexa	H7_RETINALDETACHOTH	Other, unspecified and serous retinal detachments	0.4092	H7_RETINALDETACHOTH	Other, unspecified and serous retinal detachments	Diseases of the eye and adnexa	0.841305859191466
+-0.1516	Diseases of the eye and adnexa	H7_EYELIDINOTH	Disorders of eyelid in diseases classified elsewhere	0.4114	H7_EYELIDINOTH	Disorders of eyelid in diseases classified elsewhere	Diseases of the eye and adnexa	0.859331944781646
+-0.0714	Diseases of the eye and adnexa	DRY_AMD	Dry age-related macular degeneration (includes geographic atrophy)	0.4162	DRY_AMD	Dry age-related macular degeneration (includes geographic atrophy)	Diseases of the eye and adnexa	0.931089381877758
+0.1003	Diseases of the eye and adnexa	H7_RETINOPATHYDIAB_NAS	Other diabetic retinopathy	0.4395	H7_RETINOPATHYDIAB_NAS	Other diabetic retinopathy	Diseases of the eye and adnexa	1.10550251908874
+-0.2161	Diseases of the eye and adnexa	H7_IRIDOCYCLITISINOTH	Iridocyclitis in diseases classified elsewhere	0.4538	H7_IRIDOCYCLITISINOTH	Iridocyclitis in diseases classified elsewhere	Diseases of the eye and adnexa	0.805654732371835
+-0.2166	Diseases of the eye and adnexa	H7_LENSDISLOCATIO	Dislocation of lens	0.4538	H7_LENSDISLOCATIO	Dislocation of lens	Diseases of the eye and adnexa	0.805252005695708
+0.039	Diseases of the eye and adnexa	H7_LACRIMALSYSTEM	Disorders of lacrimal system	0.4576	H7_LACRIMALSYSTEM	Disorders of lacrimal system	Diseases of the eye and adnexa	1.03977048365016
+-0.1397	Diseases of the eye and adnexa	H7_CORNEALNAS	Other and unspecified corneal deformities and disorders	0.4743	H7_CORNEALNAS	Other and unspecified corneal deformities and disorders	Diseases of the eye and adnexa	0.869619081994459
+0.2316	Diseases of the eye and adnexa	H7_NYSTAGMUS	Nystagmus and other irregular eye movements	0.4783	H7_NYSTAGMUS	Nystagmus and other irregular eye movements	Diseases of the eye and adnexa	1.26061538181293
+-0.1815	Diseases of the eye and adnexa	H7_APHAKIA	Aphakia	0.4879	H7_APHAKIA	Aphakia	Diseases of the eye and adnexa	0.83401824530348
+-0.0339	Diseases of the eye and adnexa	H7_VISUDISTURB	Visual disturbances	0.4903	H7_VISUDISTURB	Visual disturbances	Diseases of the eye and adnexa	0.966668166620989
+0.0871	Diseases of the eye and adnexa	H7_HETEROPHORIA	Heterophoria	0.4938	H7_HETEROPHORIA	Heterophoria	Diseases of the eye and adnexa	1.09100577484091
+-0.1707	Diseases of the eye and adnexa	H7_LACRIMINFLAMCHRON	Inflammation of lacrimal passages (chronic)	0.4977	H7_LACRIMINFLAMCHRON	Inflammation of lacrimal passages (chronic)	Diseases of the eye and adnexa	0.843074457874425
+0.0915	Diseases of the eye and adnexa	H7_CONJUHAEMOR	conjunctival haemorrhage	0.5324	H7_CONJUHAEMOR	conjunctival haemorrhage	Diseases of the eye and adnexa	1.09581677669254
+-0.1116	Diseases of the eye and adnexa	H7_PRESBYOPIA	Presbyopia	0.5358	H7_PRESBYOPIA	Presbyopia	Diseases of the eye and adnexa	0.894401946736435
+0.0261	Diseases of the eye and adnexa	H7_SCLERACORNEA	Disorders of sclera, cornea, iris and ciliary body	0.5389	H7_SCLERACORNEA	Disorders of sclera, cornea, iris and ciliary body	Diseases of the eye and adnexa	1.02644358770017
+-0.0667	Diseases of the eye and adnexa	H7_DIVERGSTRAB	Divergent concomitant strabismus	0.5467	H7_DIVERGSTRAB	Divergent concomitant strabismus	Diseases of the eye and adnexa	0.93547580198517
+-0.0784	Diseases of the eye and adnexa	H7_CONVERSTRAB	Convergent concomitant strabismus	0.5492	H7_CONVERSTRAB	Convergent concomitant strabismus	Diseases of the eye and adnexa	0.924594514760211
+0.0298	Diseases of the eye and adnexa	H7_VITRBODYGLOBE	Disorders of vitreous body	0.5537	H7_VITRBODYGLOBE	Disorders of vitreous body	Diseases of the eye and adnexa	1.03024846365444
+-0.08	Diseases of the eye and adnexa	H7_PARASTRAB	Paralytic strabismus	0.5607	H7_PARASTRAB	Paralytic strabismus	Diseases of the eye and adnexa	0.923116346386636
+0.0246	Diseases of the eye and adnexa	H7_USEOFEYEANTIALLERGENS	Use of eye-antiallergens (taken as indicator of allergic/atopic conjunctivitis)	0.5676	H7_USEOFEYEANTIALLERGENS	Use of eye-antiallergens (taken as indicator of allergic/atopic conjunctivitis)	Diseases of the eye and adnexa	1.02490507649049
+0.1257	Diseases of the eye and adnexa	H7_CONJUNCTDEGDEPOT	conjunctival degenerations and deposits	0.5691	H7_CONJUNCTDEGDEPOT	conjunctival degenerations and deposits	Diseases of the eye and adnexa	1.13394193467013
+0.0896	Diseases of the eye and adnexa	H7_EPISCLERITIS	Episcleritis	0.5725	H7_EPISCLERITIS	Episcleritis	Diseases of the eye and adnexa	1.093736701514
+0.0222	Diseases of the eye and adnexa	H7_ALLERGICCONJUNCTIVITIS	Allergic conjunctivitis	0.5985	H7_ALLERGICCONJUNCTIVITIS	Allergic conjunctivitis	Diseases of the eye and adnexa	1.02244825367357
+0.0239	Diseases of the eye and adnexa	H7_VITREOUS	Disorders of vitreous body and globe	0.6279	H7_VITREOUS	Disorders of vitreous body and globe	Diseases of the eye and adnexa	1.02418789398011
+-0.0272	Diseases of the eye and adnexa	H7_RETINALDETACH	Retinal detachments and breaks	0.6306	H7_RETINALDETACH	Retinal detachments and breaks	Diseases of the eye and adnexa	0.973166588741959
+-0.0447	Diseases of the eye and adnexa	H7_OTHERCONJ	Other disorders of conjunctiva	0.6388	H7_OTHERCONJ	Other disorders of conjunctiva	Diseases of the eye and adnexa	0.956284324101839
+0.0417	Diseases of the eye and adnexa	H7_EYEOTH	Other disorders of eye and adnexa	0.6557	H7_EYEOTH	Other disorders of eye and adnexa	Diseases of the eye and adnexa	1.0425816573327
+0.0155	Diseases of the eye and adnexa	H7_CONJUNCTIVITIS	Conjunctivitis	0.6593	H7_CONJUNCTIVITIS	Conjunctivitis	Diseases of the eye and adnexa	1.01562074805831
+-0.0689	Diseases of the eye and adnexa	H7_IRIDOCHRONIC	Chronic iridocyclitis	0.6744	H7_IRIDOCHRONIC	Chronic iridocyclitis	Diseases of the eye and adnexa	0.933420017412999
+0.1425	Diseases of the eye and adnexa	H7_STRABNAS	Other specified and unspecified strabismus	0.6798	H7_STRABNAS	Other specified and unspecified strabismus	Diseases of the eye and adnexa	1.15315308095737
+0.0254	Diseases of the eye and adnexa	H7_LACRIGLAND	Other disorders of lacrimal gland	0.6834	H7_LACRIGLAND	Other disorders of lacrimal gland	Diseases of the eye and adnexa	1.02572532860879
+0.0756	Diseases of the eye and adnexa	H7_GLAUCOMA_OPER	Glucoma-related operations	0.6836	H7_GLAUCOMA_OPER	Glucoma-related operations	Diseases of the eye and adnexa	1.07853107543312
+-0.0473	Diseases of the eye and adnexa	H7_RETVASCNAS	Other and unspecified vascular occlusions	0.6882	H7_RETVASCNAS	Other and unspecified vascular occlusions	Diseases of the eye and adnexa	0.953801214300734
+-0.0263	Diseases of the eye and adnexa	H7_BLEPHAROCHALASIS	Blepharochalasis	0.6886	H7_BLEPHAROCHALASIS	Blepharochalasis	Diseases of the eye and adnexa	0.974042832922562
+0.0217	Diseases of the eye and adnexa	H7_KERATITIS	Keratitis	0.6931	H7_KERATITIS	Keratitis	Diseases of the eye and adnexa	1.02193715733147
+-0.1313	Diseases of the eye and adnexa	H7_LAGOPHTALMOS	Lagophthalmos	0.6985	H7_LAGOPHTALMOS	Lagophthalmos	Diseases of the eye and adnexa	0.876954648529579
+-0.0237	Diseases of the eye and adnexa	H7_CONJUNCTIVITISACUNONATOPIC	Conjunctivitis (acute, non atopic)	0.7081	H7_CONJUNCTIVITISACUNONATOPIC	Conjunctivitis (acute, non atopic)	Diseases of the eye and adnexa	0.976578639408087
+-0.1262	Diseases of the eye and adnexa	H7_EXOPTHALMUS	Exophthalmic conditions	0.7104	H7_EXOPTHALMUS	Exophthalmic conditions	Diseases of the eye and adnexa	0.881438541445181
+0.0864	Diseases of the eye and adnexa	H7_OTHIRISCILIARY	Other disorders of iris and ciliary body	0.7122	H7_OTHIRISCILIARY	Other disorders of iris and ciliary body	Diseases of the eye and adnexa	1.09024233803258
+0.0563	Diseases of the eye and adnexa	H7_EYEADNEXOTH	Other specified and unspecified disorders of eye and adnexa	0.7202	H7_EYEADNEXOTH	Other specified and unspecified disorders of eye and adnexa	Diseases of the eye and adnexa	1.05791501063839
+-0.069	Diseases of the eye and adnexa	H7_VERTISTRAB	Vertical strabismus	0.7327	H7_VERTISTRAB	Vertical strabismus	Diseases of the eye and adnexa	0.933326680078202
+0.084	Diseases of the eye and adnexa	H7_OTHRETARTOCC	Other retinal artery occlusion	0.7392	H7_OTHRETARTOCC	Other retinal artery occlusion	Diseases of the eye and adnexa	1.08762889380883
+0.0374	Diseases of the eye and adnexa	H7_EYELIDINFLAMMATION	Other inflammation of eyelid	0.7403	H7_EYELIDINFLAMMATION	Other inflammation of eyelid	Diseases of the eye and adnexa	1.038108181073
+-0.0062	Diseases of the eye and adnexa	H7_EYE	Diseases of the eye and adnexa	0.7416	H7_EYE	Diseases of the eye and adnexa	Diseases of the eye and adnexa	0.993819180340159
+0.0631	Diseases of the eye and adnexa	H7_ECTROPION	Ectropion of eyelid	0.7527	H7_ECTROPION	Ectropion of eyelid	Diseases of the eye and adnexa	1.06513334724054
+0.0892	Diseases of the eye and adnexa	H7_OPTATROPHY	Optic atrophy	0.7553	H7_OPTATROPHY	Optic atrophy	Diseases of the eye and adnexa	1.09329929432067
+-0.0732	Diseases of the eye and adnexa	H7_EPIPHORA	Epiphora	0.7608	H7_EPIPHORA	Epiphora	Diseases of the eye and adnexa	0.929414928450565
+0.0653	Diseases of the eye and adnexa	H7_ANISOMETROPIA	Anisometropia and aniseikonia	0.7624	H7_ANISOMETROPIA	Anisometropia and aniseikonia	Diseases of the eye and adnexa	1.06747922011847
+0.0871	Diseases of the eye and adnexa	H7_CONVERGINSUFF	Convergence insufficiency and excess	0.7627	H7_CONVERGINSUFF	Convergence insufficiency and excess	Diseases of the eye and adnexa	1.09100577484091
+-0.0527	Diseases of the eye and adnexa	H7_AMBLYANOPSIA	Amblyopia ex anopsia	0.7651	H7_AMBLYANOPSIA	Amblyopia ex anopsia	Diseases of the eye and adnexa	0.948664569167411
+-0.073	Diseases of the eye and adnexa	H7_PARASTRA4	Fourth [trochlear] nerve palsy	0.7792	H7_PARASTRA4	Fourth [trochlear] nerve palsy	Diseases of the eye and adnexa	0.929600830025793
+0.0475	Diseases of the eye and adnexa	H7_OPTNEURITIS	Optic neuritis	0.7834	H7_OPTNEURITIS	Optic neuritis	Diseases of the eye and adnexa	1.04864620112129
+0.0752	Diseases of the eye and adnexa	H7_LACRIMINFLAMACU	Inflammation of lacrimal passages (acute and unspecified)	0.7838	H7_LACRIMINFLAMACU	Inflammation of lacrimal passages (acute and unspecified)	Diseases of the eye and adnexa	1.07809974927393
+0.0405	Diseases of the eye and adnexa	H7_SCLERITISEPISCLERITIS	Scleritis and episcleritis	0.7855	H7_SCLERITISEPISCLERITIS	Scleritis and episcleritis	Diseases of the eye and adnexa	1.04133130970252
+0.0286	Diseases of the eye and adnexa	H7_STENOLACRI	Stenosis and insufficiency of lacrimal passages	0.7955	H7_STENOLACRI	Stenosis and insufficiency of lacrimal passages	Diseases of the eye and adnexa	1.02901290698033
+-0.0153	Diseases of the eye and adnexa	H7_STRABISMUS	Strabismus	0.8016	H7_STRABISMUS	Strabismus	Diseases of the eye and adnexa	0.984816450346786
+-0.0688	Diseases of the eye and adnexa	H7_BINODISTOTH	Other disorders of binocular vision	0.8043	H7_BINODISTOTH	Other disorders of binocular vision	Diseases of the eye and adnexa	0.933513364081996
+0.0657	Diseases of the eye and adnexa	H7_CENTRRETARTOCC	Central retinal artery occlusion	0.8096	H7_CENTRRETARTOCC	Central retinal artery occlusion	Diseases of the eye and adnexa	1.06790629721624
+0.008	Diseases of the eye and adnexa	H7_CONJUNCTIVA	Disorders of conjunctiva	0.8105	H7_CONJUNCTIVA	Disorders of conjunctiva	Diseases of the eye and adnexa	1.00803208550427
+-0.0266	Diseases of the eye and adnexa	MACULAR_PUCKER	Macular pucker	0.8234	MACULAR_PUCKER	Macular pucker	Diseases of the eye and adnexa	0.973750663900229
+-0.0075	Diseases of the eye and adnexa	H7_LIDLACRIMALORBIT	Disorders of eyelid, lacrimal system and orbit	0.8256	H7_LIDLACRIMALORBIT	Disorders of eyelid, lacrimal system and orbit	Diseases of the eye and adnexa	0.992528054819138
+0.0347	Diseases of the eye and adnexa	H7_CONJUNCTIVITISATOPIC	Atopic conjunctivitis	0.8361	H7_CONJUNCTIVITISATOPIC	Atopic conjunctivitis	Diseases of the eye and adnexa	1.03530906948521
+-0.0447	Diseases of the eye and adnexa	H7_CONJUVASC	Other conjunctival vascular disorders and cysts	0.8509	H7_CONJUVASC	Other conjunctival vascular disorders and cysts	Diseases of the eye and adnexa	0.956284324101839
+-0.0087	Diseases of the eye and adnexa	H7_OCUMUSCLE	Disorders of ocular muscles, binocular movement, accommodation and refraction	0.8541	H7_OCUMUSCLE	Disorders of ocular muscles, binocular movement, accommodation and refraction	Diseases of the eye and adnexa	0.991337735487793
+0.0072	Diseases of the eye and adnexa	H7_RETINALDISOTH	Other retinal disorders	0.8598	H7_RETINALDISOTH	Other retinal disorders	Diseases of the eye and adnexa	1.00722598232014
+-0.04	Diseases of the eye and adnexa	H7_BINOCUMOVOTH	Other disorders of binocular movement	0.8633	H7_BINOCUMOVOTH	Other disorders of binocular movement	Diseases of the eye and adnexa	0.960789439152323
+-0.0177	Diseases of the eye and adnexa	H7_RETIVASCOCCLUSION	Retinal vascular occlusion	0.8649	H7_RETIVASCOCCLUSION	Retinal vascular occlusion	Diseases of the eye and adnexa	0.982455724869675
+-0.0165	Diseases of the eye and adnexa	H7_CHALAZION	Chalazion	0.8663	H7_CHALAZION	Chalazion	Diseases of the eye and adnexa	0.983635379390672
+-0.0161	Diseases of the eye and adnexa	H7_RETINAVASC	Retinal vascular disorders	0.8754	H7_RETINAVASC	Retinal vascular disorders	Diseases of the eye and adnexa	0.984028912243752
+-0.0054	Diseases of the eye and adnexa	H7_CHOROIDRETINA	Disorders of choroid and retina	0.8763	H7_CHOROIDRETINA	Disorders of choroid and retina	Diseases of the eye and adnexa	0.994614553791391
+-0.0317	Diseases of the eye and adnexa	H7_IRIDONAS	Other and unspecified iridocyclitis	0.8778	H7_IRIDONAS	Other and unspecified iridocyclitis	Diseases of the eye and adnexa	0.968797177640976
+0.0414	Diseases of the eye and adnexa	H7_HEREDRETINADYST	Hereditary retinal dystrophy	0.8789	H7_HEREDRETINADYST	Hereditary retinal dystrophy	Diseases of the eye and adnexa	1.04226892974698
+0.0158	Diseases of the eye and adnexa	H7_KERATITISOTH	Other keratitis	0.8799	H7_KERATITISOTH	Other keratitis	Diseases of the eye and adnexa	1.01592547999023
+0.0084	Diseases of the eye and adnexa	H7_STRABOTH	Other strabismus	0.9014	H7_STRABOTH	Other strabismus	Diseases of the eye and adnexa	1.0084353789918
+-0.0038	Diseases of the eye and adnexa	H7_CATARACTSENILE	Senile cataract	0.9086	H7_CATARACTSENILE	Senile cataract	Diseases of the eye and adnexa	0.996207210863348
+0.0117	Diseases of the eye and adnexa	H7_CORNEALOTH	Other disorders of cornea	0.9213	H7_CORNEALOTH	Other disorders of cornea	Diseases of the eye and adnexa	1.01176871271812
+-0.0137	Diseases of the eye and adnexa	H7_INTERHETEROTRO	Intermittent heterotropia	0.9264	H7_INTERHETEROTRO	Intermittent heterotropia	Diseases of the eye and adnexa	0.986393417904968
+-0.0061	Diseases of the eye and adnexa	H7_REFRAACCOMMODIS	Disorders of refraction and accommodation	0.9311	H7_REFRAACCOMMODIS	Disorders of refraction and accommodation	Diseases of the eye and adnexa	0.993918567227454
+-0.0137	Diseases of the eye and adnexa	H7_HERPESKERATITIS	Herpesviral keratitis and keratoconjunctivitis	0.9353	H7_HERPESKERATITIS	Herpesviral keratitis and keratoconjunctivitis	Diseases of the eye and adnexa	0.986393417904968
+-0.0171	Diseases of the eye and adnexa	H7_GLOBE	Disorders of globe	0.9386	H7_GLOBE	Disorders of globe	Diseases of the eye and adnexa	0.983045375182001
+-0.0058	Diseases of the eye and adnexa	H7_VITRHAEMORR	Vitreous haemorrhage	0.9591	H7_VITRHAEMORR	Vitreous haemorrhage	Diseases of the eye and adnexa	0.994216787528431
+0.01	Diseases of the eye and adnexa	H7_CONJUNCTIVITISCHRON	Chronic conjunctivitis	0.9607	H7_CONJUNCTIVITISCHRON	Chronic conjunctivitis	Diseases of the eye and adnexa	1.01005016708417
+0.0111	Diseases of the eye and adnexa	H7_CORNEALSCAR	Corneal scars and opacities	0.9648	H7_CORNEALSCAR	Corneal scars and opacities	Diseases of the eye and adnexa	1.01116183357244
+-0.0011	Diseases of the eye and adnexa	H7_LENS	Disorders of lens	0.9708	H7_LENS	Disorders of lens	Diseases of the eye and adnexa	0.998900604778228
+-0.0011	Diseases of the eye and adnexa	H7_CORNULCER	Corneal ulcer	0.9893	H7_CORNULCER	Corneal ulcer	Diseases of the eye and adnexa	0.998900604778228
+-0.0023	Diseases of the eye and adnexa	H7_CORNEALDEFORM	Keratoconus	0.9919	H7_CORNEALDEFORM	Keratoconus	Diseases of the eye and adnexa	0.997702642973332
+0.0014	Diseases of the eye and adnexa	H7_ORBIT	Disorders of orbit	0.9932	H7_ORBIT	Disorders of orbit	Diseases of the eye and adnexa	1.00140098045749
+2e-04	Diseases of the eye and adnexa	H7_IRIDOCYCLITIS	Iridocyclitis	0.9975	H7_IRIDOCYCLITIS	Iridocyclitis	Diseases of the eye and adnexa	1.00020002000133
+2e-04	Diseases of the eye and adnexa	H7_IRIDOACUTE	Acute and subacute iridocyclitis	0.9979	H7_IRIDOACUTE	Acute and subacute iridocyclitis	Diseases of the eye and adnexa	1.00020002000133
