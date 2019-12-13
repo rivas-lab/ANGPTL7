@@ -466,7 +466,7 @@ def loop_through_parameters(
     for maf_thresh in maf_threshes:
         print(
             Fore.YELLOW
-            + "Running MRP across parameters for maf_thresh "
+            + "Running gene-based tests across parameters for maf_thresh "
             + str(maf_thresh)
             + "..."
             + Style.RESET_ALL
