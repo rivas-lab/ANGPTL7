@@ -644,7 +644,7 @@ def read_in_summary_stat(file_path):
     return df
 
 
-def read_in_summary_stats(file_path, metadata_path, pop, pheno):
+def read_in_summary_stats(file_path, metadata_path, exclude_path, pop, pheno):
 
     """ 
     Reads in GBE summary statistics from the Rivas Lab file organization system on 
@@ -676,8 +676,15 @@ def read_in_summary_stats(file_path, metadata_path, pop, pheno):
         df = read_in_summary_stat(file_path)
     except:
         raise IOError("File specified in --file does not exist.")
+    try:
+        if exclude_path:
+            exclude_path = exclude_path[0]
+            variants_to_exclude = [line.rstrip('\n') for line in open(exclude_path)]
+    except:
+        raise IOError("Could not open exclusions file (--exclude).")
     print("")
-    print(Fore.CYAN + "File found.")
+    print(Fore.CYAN + "File(s) found.")
+    df = df[~df["V"].isin(variants_to_exclude)]
     df = merge_dfs(df, metadata_path)
     return df
 
@@ -733,7 +740,7 @@ def return_input_args(args):
   
     """
     pop, pheno = args.pop, args.pheno
-    df = read_in_summary_stats(args.file_path, args.metadata_path, pop, pheno)
+    df = read_in_summary_stats(args.file_path, args.metadata_path, args.exclude, pop, pheno)
     for arg in vars(args):
         setattr(args, arg, sorted(list(set(getattr(args, arg)))))
     return (df, pop, pheno)
@@ -851,6 +858,20 @@ def initialize_parser():
         dest="maf_threshes",
         help="""which MAF threshold(s) to use. must be valid floats between 0 and 1 
          (default: 0.01).""",
+    )
+    parser.add_argument(
+        "--exclude",
+        type=str,
+        nargs=1,
+        default=[],
+        dest="exclude",
+        help="""path to file containing variants to exclude from analysis.
+
+         format of file:
+
+         1:69081:G:C
+         1:70001:G:A
+        """,
     )
     parser.add_argument(
         "--out_folder",
