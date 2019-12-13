@@ -712,7 +712,7 @@ def print_banner():
     print(Fore.GREEN + "Contact:" + Style.RESET_ALL)
     print("Email: guhan@stanford.edu")
     print(
-        "URL: https://github.com/rivas-lab/ukbb-tools/blob/master/13_mrp/gene_based_test.py"
+        "URL: https://github.com/rivas-lab/ANGPTL7/tree/master/gene_based_test/src/gene_based_test.py"
     )
     print("")
     print(Fore.GREEN + "Methods Developers:" + Style.RESET_ALL)
