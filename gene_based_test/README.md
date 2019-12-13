@@ -7,6 +7,11 @@ scipy at least 1.2.2
 colorama
 rpy2 compatible with the version of python (2.8.6 for python 2.7 and 2.9.2 for python 3.6)
 
+Code, metadata, and an "exclude file" used in the generation of the result files can be found
+in the folder "src".
+
+Results can be found in "results".
+
 Usage: gene_based_test.py [-h] --file FILE_PATH --pop POP --pheno PHENO
                           --metadata_path METADATA_PATH
                           [--R_var {independent,similar} [{independent,similar} ...]]
@@ -57,6 +62,13 @@ Argument Details:
   --maf_thresh MAF_THRESHES [MAF_THRESHES ...]
                         which MAF threshold(s) to use. must be valid floats between 0 and 1 
                                  (default: 0.01).
+
+  --exclude EXCLUDE     path to file containing variants to exclude from analysis.
+                        
+                                 format of file:
+                        
+                                 1:69081:G:C
+                                 1:70001:G:A
 
   --out_folder OUT_FOLDER
                         folder to which output(s) will be written (default: current folder).
