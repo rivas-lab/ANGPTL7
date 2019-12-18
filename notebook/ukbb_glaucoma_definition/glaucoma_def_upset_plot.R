@@ -58,31 +58,33 @@ upset_plot_wrapper <- function(plot_df){
             'ICD-10 Q150'   = plot_df %>% get_IIDs_for_upset_plot('HQ50')
         )), 
         order.by = "freq",
-        nsets = 15, nintersects = 500,
-        number.angles = 0, 
+        nsets = 20, nintersects = NA,
+        number.angles = 300, 
         point.size = 2, line.size = .5, 
         mainbar.y.label = "Number of case individuals", 
         sets.x.label = "# cases per data source", 
-        text.scale = c(1, 1, 1, 1, 1, .8)
+        text.scale = c(1.5, 1.2, 1.5, 1.2, 1, .8),
+        mb.ratio = c(0.6, 0.4),
+        show.numbers = "yes"
     )    
 }
 
 df <- fread(in_file)
 
-pdf(file=paste0(out_plot_prefix, '.all.pdf'), onefile=FALSE, height = 6, width=18)
+pdf(file=paste0(out_plot_prefix, '.all.pdf'), onefile=FALSE, height = 6, width=8)
 df %>%
 wide_to_plot() %>% 
 upset_plot_wrapper()
 dev.off()
 
-pdf(file=paste0(out_plot_prefix, '.white_british.pdf'), onefile=FALSE, height = 6, width=18)
+pdf(file=paste0(out_plot_prefix, '.white_british.pdf'), onefile=FALSE, height = 6, width=8)
 df %>%
 filter(IID %in% read_keep(keep_files[['WB']])$IID) %>%
 wide_to_plot() %>% 
 upset_plot_wrapper()
 dev.off()
 
-pdf(file=paste0(out_plot_prefix, '.white_british_noIOP.pdf'), onefile=FALSE, height = 6, width=18)
+pdf(file=paste0(out_plot_prefix, '.white_british_noIOP.pdf'), onefile=FALSE, height = 6, width=8)
 df %>%
 filter(IID %in% read_keep(keep_files[['WB_noIOP']])$IID) %>%
 wide_to_plot() %>% 
