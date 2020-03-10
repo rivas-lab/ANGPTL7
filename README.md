@@ -1,29 +1,18 @@
+# Rare protein-altering variants in _ANGPTL7_ lower intraocular pressure and protect against glaucoma
 
-# Figure 1 numbers
+This GitHub repository contains the analysis scripts, notebooks, and codes used for the following publication.
 
-## Analysis 1
+[Tanigawa, Y. et al. Rare protein-altering variants in _ANGPTL7_ lower intraocular pressure and protect against glaucoma. bioRxiv 677443 (2019) doi:10.1101/677443.](https://doi.org/10.1101/677443)
 
-### The number of variants and genes tested
+## Dataset availability
 
-The number of genes comes from
+The genome-wide summary statistics and the results of gene-based burden and dispersion tests are available at NIH’s instance of figshare.
 
-/oak/stanford/groups/mrivas/users/mrivas/repos/ukbb-tools-git/13_mrp/withgln175his/white_british_INI2005254_gene_0.01.tsv
+- [Tanigawa, Yosuke; Rivas, Manuel (2019): Genome-wide summary statistics used for the analysis described in 'Rare protein-altering variants in _ANGPTL7_ lower intraocular pressure and protect against glaucoma'. figshare. Dataset.](https://doi.org/10.35092/yhjc.11368022)
+- [Tanigawa, Yosuke; Venkataraman, Guhan; Rivas, Manuel (2019): Gene-based test results used for the analysis described in 'Rare protein-altering variants in _ANGPTL7_ lower intraocular pressure and protect against glaucoma'. figshare. Dataset.](https://doi.org/10.35092/yhjc.11369166)
 
-### GWAS sumstats
+## Directories
 
-/oak/stanford/groups/mrivas/projects/ANGPTL7/ukbb_gwas/white_british/ukb24983_v2_hg19.INI200525[4/5].genotyped.glm.linear.gz
-
-/oak/stanford/groups/mrivas/projects/ANGPTL7/ukbb_gwas/white_british/ukb24983_v2_hg19.INI2005255.genotyped.glm.linear.gz
-
-
-### MRP burden and dispersion tests
-
-/oak/stanford/groups/mrivas/users/mrivas/repos/ukbb-tools-git/13_mrp/withgln175his/white_british_INI200525[4/5]_gene_0.01.tsv
-
-/oak/stanford/groups/mrivas/users/mrivas/repos/ukbb-tools-git/13_mrp/withoutgln175his/white_british_INI200525[4/5]_gene_0.01.tsv
-
-/oak/stanford/groups/mrivas/users/mrivas/repos/ukbb-tools-git/13_mrp/withoutgln175his/white_british_INI200525*_gene_0.01.tsv
-
-
---> those files are copied to
-
+- [`notebook`](https://github.com/rivas-lab/ANGPTL7/tree/master/notebook): this directory contains notebooks and scripts for sub-analyses other than gene-based tests.
+- [`gene_based_test`](https://github.com/rivas-lab/ANGPTL7/tree/master/gene_based_test): this directory contains the source code for gene-based tests.
+- [`plots`](https://github.com/rivas-lab/ANGPTL7/tree/master/plots)" this directory contains plots obtained from external resources.
