@@ -1,7 +1,7 @@
 # Rare protein-altering variants in _ANGPTL7_ lower intraocular pressure and protect against glaucoma
 
 This GitHub repository contains the analysis scripts, notebooks, and codes used for the following publication.
-
+[Tanigawa Y, Wainberg M, Karjalainen J, Kiiskinen T, Venkataraman G, Lemmelä S, et al. (2020) Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma. PLoS Genet 16(5): e1008682.](https://doi.org/10.1371/journal.pgen.1008682)
 [Tanigawa, Y. et al. Rare protein-altering variants in _ANGPTL7_ lower intraocular pressure and protect against glaucoma. bioRxiv 677443 (2019) doi:10.1101/677443.](https://doi.org/10.1101/677443)
 
 ![Fig 1](/plots/Fig1/Fig1.png)
